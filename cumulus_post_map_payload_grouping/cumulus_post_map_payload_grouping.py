@@ -6,7 +6,7 @@ def lambda_handler(event, context):
             fail_count = fail_count + 1
 
     if fail_count > 0:
-        raise Exception(f'Map has counted failed unpacks (total: {fail_count}')
+        raise Exception(f'Map has counted failed unpacks (total: {fail_count})')
 
     return {
         'statusCode': 200,
