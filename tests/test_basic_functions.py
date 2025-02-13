@@ -6,9 +6,11 @@ lambda_input = {
     "cma": {
         "event": [
             {
+                "result": "success",
                 "dummy_data": "dummy_value"
             },
             {
+                "result": "success",
                 "dummy_data": "dummy_value2"
             }
         ]
