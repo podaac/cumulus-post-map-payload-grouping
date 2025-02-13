@@ -2,9 +2,7 @@ import pytest
 
 from cumulus_post_map_payload_grouping.cumulus_post_map_payload_grouping import lambda_handler
 
-
-lambda_input = 
-{
+lambda_input = {
     "cma": {
         "event": [
             {
@@ -17,8 +15,7 @@ lambda_input =
     }
 }
 
-lambda_input_bad = 
-{
+lambda_input_bad = {
     "cma": {
         "event": [
             {
