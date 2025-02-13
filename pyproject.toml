@@ -3,7 +3,7 @@ name = "cumulus-post-map-payload-grouping"
 version = "0.1.0"
 description = "A simple lambda where it gets distributed map status"
 authors = ["Hong-Kit Randy Yeung <hong-kit.r.yeung@jpl.nasa.gov>"]
-readme = "README.md"
+readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = "^3.10"
