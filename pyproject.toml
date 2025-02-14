@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cumulus-post-map-payload-grouping"
-version = "0.1.1a2"
+version = "1.0.1-rc.1"
 description = "A simple lambda where it gets distributed map status"
 authors = ["Hong-Kit Randy Yeung <hong-kit.r.yeung@jpl.nasa.gov>"]
 readme = "README.rst"
